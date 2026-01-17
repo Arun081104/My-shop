@@ -64,7 +64,7 @@ button{background:green;color:white;border:none;padding:9px;border-radius:5px;wi
 
 <script>
 const ADMIN_PASSWORD = "1234";   // 👉 apna password yaha change karo
-const WHATSAPP_NUMBER = "919999999999";
+const WHATSAPP_NUMBER = "917042173665";
 
 let products = JSON.parse(localStorage.getItem("products")) || [
  {id:1,name:'Bike Cover',price:499,cat:'cover',img:'https://i.imgur.com/8Km9tLL.jpg'}
